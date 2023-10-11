@@ -1,0 +1,151 @@
+ID,Name,Semester,DOB,Courses
+1,Sammy,3,01-01-2003,English-Maths-Science
+2,Saro,3,01-05-2002,English-French-Science
+3,alice,4,03-04-2004,History-Chemistry-Physics
+4,bob,2,05-06-2002,Maths-English-Art
+5,carol,1,07-08-2000,Biology-Geography-Music
+6,dave,6,09-10-1999,Computer Science-Economics
+7,emily,3,11-12-1998,Psychology-Sociology
+8,frank,5,01-02-1997,Engineering-Philosophy
+9,grace,2,03-04-1996,French-Literature
+10,harry,4,05-06-1995,Spanish-Physical Education
+11,irene,1,07-08-1994,Maths-English-Biology
+12,john,3,09-10-1993,History-Chemistry-Physics
+13,kate,4,11-12-1992,English-French-Science
+14,lucas,2,01-02-1991,Music-Art-Geography
+15,maria,5,03-04-1990,Computer Science-Economics
+16,nick,6,05-06-1989,Psychology-Sociology
+17,olivia,2,07-08-1988,Engineering-Philosophy
+18,peter,1,09-10-1987,Spanish-Physical Education
+19,quinn,3,11-12-1986,French-Literature-Math
+20,rachel,4,01-02-1985,Chemistry-Physics-English
+21,samuel,5,03-04-1984,History-Biology-Geography
+22,tina,2,05-06-1983,Art-Music-Computer Science
+23,vincent,3,07-08-1982,Economics-Psychology-Sociology
+24,wendy,6,09-10-1981,Philosophy-Engineering
+25,xander,4,11-12-1980,Physical Education-Spanish
+26,yvonne,1,01-02-1979,Literature-French
+27,zane,5,03-04-1978,Geography-History-Chemistry
+28,amy,2,05-06-1977,Physics-English-Biology
+29,brad,3,07-08-1976,Music-Art-Computer Science
+30,chloe,4,09-10-1975,Sociology-Economics-Psychology
+31,daniel,2,11-12-1974,Philosophy-Engineering-Physical Education
+32,elena,6,01-02-1974,English-Literature
+33,felix,3,03-04-1973,Chemistry-Geography-History
+34,gabrielle,4,05-06-1972,Biology-Physics-Music
+35,henry,1,07-08-1971,Computer Science-Economics-Sociology
+36,irena,5,09-10-1970,Psychology-Philosophy-Engineering
+37,jason,2,11-12-1969,Physical Education-Spanish-French
+38,karen,4,01-02-1969,Maths-English-Computer Science
+39,louis,3,03-04-1968,French-Literature-Economics
+40,monica,6,05-06-1967,Music-Art-Psychology
+41,nathan,1,07-08-1966,History-Chemistry-Geography
+42,oliver,2,09-10-1965,Physics-Biology-English
+43,pamela,3,11-12-1964,Sociology-Engineering-Physical Education
+44,quincy,4,01-02-1964,Philosophy-Spanish-Literature
+45,rachel,5,03-04-1963,Maths-French-Computer Science
+46,steven,1,05-06-1962,Economics-Psychology-Music
+47,tara,2,07-08-1961,Geography-Computer Science-Physics
+48,ursula,3,09-10-1960,History-Art-Biology
+49,victor,4,11-12-1959,Sociology-Philosophy-English
+50,william,5,01-02-1959,Engineering-Physical Education
+51,xander,6,03-04-1958,Literature-Philosophy
+52,yvonne,1,05-06-1957,French-History-Chemistry
+53,zachary,2,07-08-1956,Psychology-Geography-Physics
+54,amelia,3,09-10-1955,Computer Science-Economics-Sociology
+55,brandon,4,11-12-1954,Art-Music-Spanish
+56,christine,5,01-02-1954,Literature-Biology-Engineering
+57,david,6,03-04-1953,Maths-French-English
+58,emily,1,05-06-1952,Physical Education-Philosophy
+59,francis,2,07-08-1951,History-Computer Science
+60,grace,3,09-10-1950,Economics-Geography
+61,harry,4,11-12-1949,Psychology-Physics
+62,irene,5,01-02-1949,Sociology-French
+63,john,6,03-04-1948,Music-Engineering
+64,kate,1,05-06-1947,Art-Literature
+65,lucas,2,07-08-1946,Biology-Spanish
+66,maria,3,09-10-1945,English-Philosophy
+67,nick,4,11-12-1944,Chemistry-Computer Science
+68,olivia,5,01-02-1944,Geography-History
+69,peter,6,03-04-1943,French-Maths
+70,quinn,1,05-06-1942,Physics-Economics
+71,rachel,2,07-08-1941,Sociology-English
+72,samuel,3,09-10-1940,History-Music
+73,tina,4,11-12-1939,Chemistry-Literature
+74,vincent,5,01-02-1939,Computer Science-Geography
+75,wendy,6,03-04-1938,Maths-Philosophy
+76,xander,1,05-06-1937,Psychology-Physical Education
+77,yvonne,2,07-08-1936,Engineering-French
+78,zane,3,09-10-1935,Art-Physics
+79,amy,4,11-12-1934,Biology-Spanish
+80,brad,5,01-02-1934,French-English
+81,chloe,6,03-04-1933,Economics-Computer Science
+82,daniel,1,05-06-1932,History-Literature
+83,elena,2,07-08-1931,Philosophy-Geography
+84,felix,3,09-10-1930,Music-Sociology
+85,gabrielle,4,11-12-1929,Chemistry-Physics
+86,henry,5,01-02-1929,English-Physical Education
+87,irena,6,03-04-1928,Maths-Engineering
+88,jason,1,05-06-1927,French-Computer Science
+89,karen,2,07-08-1926,Biology-Philosophy
+90,louis,3,09-10-1925,Art-History
+91,monica,4,11-12-1924,Psychology-Spanish
+92,nathan,5,01-02-1924,Literature-Geography
+93,oliver,6,03-04-1923,Economics-Music
+94,pamela,1,05-06-1922,Physics-Philosophy
+95,quincy,2,07-08-1921,Computer Science-Physical Education
+96,rachel,3,09-10-1920,History-Sociology
+97,steven,4,11-12-1919,Chemistry-English
+98,tara,5,01-02-1919,Maths-French
+99,ursula,6,03-04-1918,Engineering-Biology
+100,victor,1,05-06-1917,Geography-Computer Science
+101,william,2,07-08-1916,Psychology-Literature
+102,xander,3,09-10-1915,Art-Philosophy
+103,yvonne,4,11-12-1914,Spanish-Music
+104,zachary,5,01-02-1914,History-Physics
+105,amelia,6,03-04-1913,Economics-Physical Education
+106,daniel,1,05-06-1912,English-Computer Science
+107,elena,2,07-08-1911,Maths-Spanish
+108,felix,3,09-10-1910,Literature-Physics
+109,gabrielle,4,11-12-1909,Chemistry-Geography
+110,henry,5,01-02-1909,History-Sociology
+111,irena,6,03-04-1908,Music-Physical Education
+112,jason,1,05-06-1907,Psychology-French
+113,karen,2,07-08-1906,Art-Philosophy
+114,louis,3,09-10-1905,Economics-Biology
+115,monica,4,11-12-1904,Engineering-Computer Science
+116,nathan,5,01-02-1904,French-English
+117,oliver,6,03-04-1903,History-Literature
+118,pamela,1,05-06-1902,Maths-Geography
+119,quincy,2,07-08-1901,Sociology-Physics
+120,rachel,3,09-10-1900,Chemistry-Physical Education
+121,steven,4,11-12-1899,Psychology-Computer Science
+122,tara,5,01-02-1899,Music-Spanish
+123,ursula,6,03-04-1898,Art-Engineering
+124,victor,1,05-06-1897,Philosophy-Philosophy
+125,william,2,07-08-1896,Biology-History
+126,xander,3,09-10-1895,Economics-English
+127,yvonne,4,11-12-1894,Maths-Literature
+128,zachary,5,01-02-1894,Physics-Geography
+129,amelia,6,03-04-1893,Computer Science-French
+130,daniel,1,05-06-1892,History-Physical Education
+131,elena,2,07-08-1891,Sociology-Spanish
+132,felix,3,09-10-1890,Art-Computer Science
+133,gabrielle,4,11-12-1889,Music-Literature
+134,henry,5,01-02-1889,Economics-English
+135,irena,6,03-04-1888,Chemistry-Geography
+136,jason,1,05-06-1887,Maths-Spanish
+137,karen,2,07-08-1886,History-Physical Education
+138,louis,3,09-10-1885,Philosophy-Philosophy
+139,monica,4,11-12-1884,French-Biology
+140,nathan,5,01-02-1884,Physics-Computer Science
+141,oliver,6,03-04-1883,Psychology-History
+142,pamela,1,05-06-1882,Chemistry-Philosophy
+143,quincy,2,07-08-1881,Music-Literature
+144,rachel,3,09-10-1880,Art-Geography
+145,steven,4,11-12-1879,Economics-English
+146,tara,5,01-02-1879,Sociology-Physical Education
+147,ursula,6,03-04-1878,Computer Science-Spanish
+148,victor,1,05-06-1877,History-Physics
+149,william,2,07-08-1876,Literature-Engineering
+150,xander,3,09-10-1875,French-Music
